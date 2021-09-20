@@ -1,0 +1,19 @@
+{
+  "name": "djew",
+  "version": "1.0.0",
+  "description": "djew corporate website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-development",
+    "e-commerce",
+    "web-design"
+  ],
+  "author": "Dominique L. Johnson, Sr.",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.4.2"
+  }
+}
